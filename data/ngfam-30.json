@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "ngfam",
+  "address": "0x0bC711dd99B0BB2297e514E7B9CACe963daadA15",
+  "risk": "3",
+  "title": "Unfairness in credit distributing and potential front-run",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/30"
+}
