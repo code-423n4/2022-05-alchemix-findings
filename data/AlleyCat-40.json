@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "AlleyCat",
+  "address": "0x9dfcc853d908ef27ec32826c96306841218e88f4",
+  "risk": "2",
+  "title": "IWETH9 is not implicitly convertible to expected type contract IERC20 in EthAssetManager.sol",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/40"
+}
