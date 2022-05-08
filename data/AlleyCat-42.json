@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "AlleyCat",
+  "address": "0x9dfcc853d908ef27ec32826c96306841218e88f4",
+  "risk": "3",
+  "title": "The caller can redirect execution to arbitrary bytecode locations - TransmuterBuffer.sol",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/42"
+}
