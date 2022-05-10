@@ -1,9 +1,0 @@
-{
-  "contest": 120,
-  "handle": "MaratCerby",
-  "address": "0x40385F27D90eb7A7FCa6F521176C6eBADBE57632",
-  "risk": "3",
-  "title": "amount requires to be updated to contract balance increase (15)",
-  "issueId": 25,
-  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/25"
-}
