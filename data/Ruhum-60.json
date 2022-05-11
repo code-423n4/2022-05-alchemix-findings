@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "YearnTokenAdapter allows a maximum loss of 100% when withdrawing",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/60"
+}
