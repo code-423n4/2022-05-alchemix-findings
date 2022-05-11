@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "csanuragjain",
+  "address": "0xd295584135829D89427674B72560222B06E08a15",
+  "risk": "3",
+  "title": "Distorted list created on duplicate value",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/55"
+}
