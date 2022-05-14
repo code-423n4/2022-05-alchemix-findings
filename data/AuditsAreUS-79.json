@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "AuditsAreUS",
+  "address": "0x2e878D5890d8D6f2650043838936fCF9CEf4E4E2",
+  "risk": "2",
+  "title": "Owner may bypass `bridgeTokenEnabled` in `CrossChainCanonicalBase.recoverERC20()` to withdraw bridge tokens",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/79"
+}
