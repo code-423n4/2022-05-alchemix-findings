@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "AuditsAreUS",
+  "address": "0x2e878D5890d8D6f2650043838936fCF9CEf4E4E2",
+  "risk": "3",
+  "title": "If `totalShares` for a token falls to zero while there is `pendingCredit` the contract will become stuck",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/104"
+}
