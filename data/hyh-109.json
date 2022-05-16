@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "2",
+  "title": "AlchemistV2's setTokenAdapter can freeze user funds",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/109"
+}
