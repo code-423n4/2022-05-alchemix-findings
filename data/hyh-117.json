@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "2",
+  "title": "TransmuterBuffer's setAlchemist will freeze deposited funds",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/117"
+}
