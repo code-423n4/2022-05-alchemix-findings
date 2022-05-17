@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "jah",
+  "address": "0x6ae089D92a2E88CA18a2d463aD32849cB41C4D0f",
+  "risk": "2",
+  "title": "loss should be >=",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/114"
+}
