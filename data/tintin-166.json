@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "2",
+  "title": "Alchemist can mint `AlTokens` above their assigned ceiling by calling `lowerHasMinted()`",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/166"
+}
