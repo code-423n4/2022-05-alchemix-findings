@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/202"
+}
