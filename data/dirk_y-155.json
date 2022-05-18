@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "dirk_y",
+  "address": "0x957342FeBe16d72cE462Ffc649Bfc6fAF96e2da3",
+  "risk": "2",
+  "title": "A well financed attacker could prevent any other users from minting synthetic tokens",
+  "issueId": 155,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/155"
+}
