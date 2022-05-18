@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/169"
+}
