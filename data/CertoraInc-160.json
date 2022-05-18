@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "CertoraInc",
+  "address": "0x777bA383e74062dd7948A61471267E8e4370EA39",
+  "risk": "2",
+  "title": "Contract cannot avoid receive eth from everyone",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/160"
+}
