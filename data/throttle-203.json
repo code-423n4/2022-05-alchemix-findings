@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "throttle",
+  "address": "0x210b0D0694ff95c99dD693DD89CDF2f88de6beC4",
+  "risk": "3",
+  "title": "No check transferFrom() return value",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/203"
+}
