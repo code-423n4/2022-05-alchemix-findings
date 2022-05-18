@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "There should be a cap on `protocolFee`",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/187"
+}
