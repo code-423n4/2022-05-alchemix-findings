@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Free Flash fee due to zero value check in AlchemicTokenV2Base.sol",
+  "issueId": 208,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/208"
+}
