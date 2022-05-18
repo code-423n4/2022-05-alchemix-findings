@@ -1,0 +1,9 @@
+{
+  "contest": 120,
+  "handle": "MiloTruck",
+  "address": "0x9834b17a29652e317202109C2e624FE0A32A1383",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2022-05-alchemix-findings/issues/172"
+}
